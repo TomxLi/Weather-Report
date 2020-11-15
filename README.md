@@ -12,7 +12,6 @@ Live URL: https://tomxli.github.io/Weather-Report/
 *Search history will remain unless user click clear button.
 *When re-open, APP will auto load previous searched city.
 ```
-Technologies Used
 
 ## Tools and coding language Used 
 - HTML
