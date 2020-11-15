@@ -13,7 +13,7 @@ Live URL: https://tomxli.github.io/Weather-Report/
 *When re-open, APP will auto load previous searched city.
 ```
 
-## Tools and coding language Used 
+## Tools and coding languages Used 
 - HTML
 - CSS
 - Bootstrap
